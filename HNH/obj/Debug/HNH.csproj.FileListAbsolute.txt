@@ -1,0 +1,9 @@
+C:\Users\KenZ\Desktop\HNH\HNH\bin\Debug\HNH.exe.config
+C:\Users\KenZ\Desktop\HNH\HNH\bin\Debug\HNH.exe
+C:\Users\KenZ\Desktop\HNH\HNH\bin\Debug\HNH.pdb
+C:\Users\KenZ\Desktop\HNH\HNH\obj\Debug\HNH.csprojResolveAssemblyReference.cache
+C:\Users\KenZ\Desktop\HNH\HNH\obj\Debug\HNH.Form1.resources
+C:\Users\KenZ\Desktop\HNH\HNH\obj\Debug\HNH.Properties.Resources.resources
+C:\Users\KenZ\Desktop\HNH\HNH\obj\Debug\HNH.csproj.GenerateResource.Cache
+C:\Users\KenZ\Desktop\HNH\HNH\obj\Debug\HNH.exe
+C:\Users\KenZ\Desktop\HNH\HNH\obj\Debug\HNH.pdb
